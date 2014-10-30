@@ -1,0 +1,34 @@
+Poor House,0,0,0,4,0,0,Reveal your hand. {-1c} per Treasure card in your hand\, to a minimum of {0c}.,\N,35,1
+Beggar,0,0,0,0,0,0,Gain 3 Coppers\, putting them into your hand.,When another player plays an Attack card\, you may discard this. If you do\, gain two Silvers\, putting one on top of your deck.,99,2
+Squire,0,0,0,1,0,0,Choose one: +2 Actions; or +2 Buys; or gain a Silver.,When you trash this\, gain an Attack card.,35,2
+Vagrant,1,1,0,0,0,0,Reveal the top card of your deck. If it's a Curse\, Ruins\, Shelter\, or Victory card\, put it into your hand.,\N,35,2
+Forager,0,1,1,0,0,0,Trash a card from your hand. +{1c} per differently named Treasure in the trash.,\N,35,3
+Hermit,0,0,0,0,0,0,Look through your discard pile. You may trash a card from your discard pile or hand that is not a Treasure. Gain a card costing up to {3c}.,When you discard this from play\, if you did not buy any cards this turn\, trash this and gain a Madman from the Madman pile.,35,3
+Market Square,1,1,1,0,0,0,\N,When one of your cards is trashed\, you may discard this from your hand. If you do\, gain a Gold.,99,3
+Sage,0,1,0,0,0,0,Reveal cards from the top of your deck until you reveal one costing 3 Coins or more. Put that card into your hand and discard the rest.,\N,35,3
+Storeroom,0,0,1,0,0,0,Discard any number of cards. +1 Card per card discarded. Discard any number of cards. +{1c} per card discarded the second time.,\N,35,3
+Urchin,1,1,0,0,0,0,Each other player discards down to 4 cards in hand.,When you play another Attack card with this in play\, you may trash this. If you do\, gain a mercenary from the Mercenary pile.,163,3
+Armory,0,0,0,0,0,0,Gain a card costing up to {4c}\, putting it on top of your deck.,\N,35,4
+Death Cart,0,0,0,5,0,0,You may trash an Action card from your hand. If you don't\, trash this.,When you gain this\, gain 2 Ruins.,8227,4
+Feodum,0,0,0,0,0,0,Worth {1v} for every 3 Silvers in your deck (round down).,When you trash this\, gain 3 Silvers.,19,4
+Fortress,1,2,0,0,0,0,\N,When you trash this\, put it into your hand.,35,4
+Ironmonger,1,1,0,0,0,0,Reveal the top card of your deck; you may discard it. Either way\, if it is an… Action card\, +1 Action Treasure card\, +{1c} Victory card\, +1 Card,\N,35,4
+Marauder,0,0,0,0,0,0,Gain a Spoils from the Spoils pile. Each other player gains a Ruins.,\N,8355,4
+Procession,0,0,0,0,0,0,You may play an Action card from your hand twice. Trash it. Gain an Action card costing exactly {1c} more than it.,\N,35,4
+Rats,1,1,0,0,0,0,Gain a Rats. Trash a card from your hand other than a Rats (or reveal a hand of all Rats).,When you tash this\, +1 Card.,35,4
+Scavenger,0,0,0,1,0,0,You may put your deck into your discard pile. Look through your discard pile and put one card from it on top of your deck.,\N,35,4
+Wandering Minstrel,1,2,0,0,0,0,Reveal the top 3 cards of your deck. Put the Actions back on top in any order and discard the rest.,\N,35,4
+Band of Misfits,0,0,0,0,0,0,Play this as if it were an Action card in the Supply costing less than it that you choose. This is that card until it leaves play.,\N,35,5
+Bandit Camp,1,2,0,0,0,0,Gain a Spoils from the Spoils pile.,\N,35,5
+Catacombs,0,0,0,0,0,0,Look at the top 3 cards of your deck. Choose one: Put them into your hand; or discard them and +3 Cards.,When you trash this\, gain a cheaper card.,35,5
+Count,0,0,0,0,0,0,Choose one: Discard 2 cards; or put a card from your hand on top of your deck; or gain a Copper. Choose one: +{3c}; or trash your hand; or gain a Duchy.,\N,35,5
+Counterfeit,0,0,1,0,0,1,When you play this\, you may play a Treasure from your hand twice. If you do\, trash that Treasure.,\N,7,5
+Cultist,2,0,0,0,0,0,Each other player gains a Ruins. You may play a Cultist from your hand.,When you trash this\, +3 Cards.,8355,5
+Graverobber,0,0,0,0,0,0,Choose one: Gain a card from the trash costing from {3c} to {6c}\, putting it on top of your deck; or trash an Action card from your hand and gain a card costing up to {3c} more than it.,\N,35,5
+Junk Dealer,1,1,0,1,0,0,Trash a card from your hand.,\N,35,5
+Mystic,0,1,0,2,0,0,Name a card. Reveal the top card of your deck. If it's the named card\, put it into your hand.,\N,35,5
+Pillage,0,0,0,0,0,0,Trash this. Each other player with 5 or more cards in hand reveals his hand and discards a card that you choose. Gain 2 Spoils from the Spoils pile.,\N,163,5
+Rebuild,0,1,0,0,0,0,Name a card. Reveal cards from the top of your deck until you reveal a Victory card that is not the named card. Discard the other cards. Trash the Victory card and gain a Victory card costing up to {3c} more than it.,\N,35,5
+Rogue,0,0,0,2,0,0,If there are any cards in the trash costing from {3c} to {6c}\, gain one of them. Otherwise\, each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest.,\N,163,5
+Alter,0,0,0,0,0,0,Trash a card from your hand. Gain a card costing up to {5c}.,\N,35,6
+Hunting Grounds,4,0,0,0,0,0,\N,When you trash this\, gain a Duchy or 3 Estates.,35,6

@@ -1,0 +1,26 @@
+Crossroads,0,0,0,0,0,0,Reveal your hand. +1 Card per Victory card revealed. If this is the first time you played a Crossroads this turn\, +3 Actions.,\N,35,2
+Duchess,0,0,0,0,0,2,Each player (including you) looks at the top card of his deck\, and discards it or puts it back.,In games using this\, when you gain a Duchy\, you may gain a Duchess.,35,2
+Fool's Gold,0,0,0,0,0,0,If this is the first time you played a Fool's Gold this turn\, this is worth {1c}\, otherwise it's worth {4c}.,When another player gains a Province\, you may trash this from your hand. If you do\, gain a Gold\, putting it on your deck.,71,2
+Develop,0,0,0,0,0,0,Trash a card from your hand. Gain a card costing exactly {1c} more than it and a card costing exactly {1c} less than it\, in either order\, putting them on top of your deck.,\N,35,3
+Oasis,1,1,0,1,0,0,Discard a card.,\N,35,3
+Oracle,2,0,0,0,0,0,Each player (including you) reveals the top 2 cards of his deck\, and you choose one: either he discards them\, or he puts them back on top in an order he chooses.,\N,163,3
+Scheme,1,1,0,0,0,0,At the start of Clean-up this turn\, you may choose an Action card you have in play. If you discard it from play this turn\, put it on your deck.,\N,35,3
+Tunnel,0,0,0,0,2,0,\N,When you discard this other than during a Clean-up phase\, you may reveal it. If you do\, gain a Gold.,83,3
+Jack of all Trades,0,0,0,0,0,0,Gain a Silver. Look at the top card of your deck; discard it or put it back. Draw until you have 5 cards in hand. You may trash a card from your hand that is not a Treasure.,\N,35,4
+Noble Brigand, 0,0,0,1,0,0,When you buy this or play it\, each other player reveals the top 2 cards of his deck\, trashes a revealed Silver or Gold you choose\, and discards the rest. If he didn't reveal a Treasure\, he gains a Copper. You gain the trashed cards.,\N,163,4
+Nomad Camp,0,0,1,2,0,0,\N,When you gain this\, put it on top of your deck.,35,4
+Silk Road,0,0,0,0,0,0,Worth {1v} for every 4 Victory cards in your deck (round down).,\N,19,4
+Spice Merchant,0,0,0,0,0,0,You may trash a Treasure from your hand. If you do\, choose one 2 Cards and +1 Action; or +{2c} and +1 Buy.,\N,35,4
+Trader,0,0,0,0,0,0,Trash a card from your hand. Gain a number of Silvers equal to its cost in {c}.,When you would gain a card\, you may reveal this from your hand. If you do\, instead\, gain a silver.,99,4
+Cache,0,0,0,0,0,3,\N,When you gain this\, gain two Coppers.,7,5
+Cartographer,1,1,0,0,0,0,Look at the top 4 cards of your deck. Discard any number of them. Put the rest back on top in any order.,\N,35,5
+Embassy,5,0,0,0,0,0,Discard 3 cards.,When you gain this\, each other player gains a Silver.,35,5
+Haggler,0,0,0,2,0,0,\N,While this is in play\, when you buy a card\, gain a card costing less than it that is not a Victory card.,35,5
+Highway,1,1,0,0,0,0,\N,While this is in play\, cards cost {1c} less\, but not less than 0 Coins.,35,5
+Ill-Gotten Gains,0,0,0,0,0,1,When you play this\, you may gain a Copper\, putting it into your hand.,When you gain this\, each other player gains a Curse.,7,5
+Inn,2,2,0,0,0,0,Discard 2 cards.,When you gain this\, look through your discard pile (including this)\, reveal any number of Action cards from it\, and shuffle them into your deck.,35,5
+Mandarin,0,0,0,3,0,0,Put a card from your hand on top of your deck.,When you gain this\, put all Treasures you have in play on top of your deck in any order.,35,5
+Margrave,3,0,1,0,0,0,Each other player draws a card\, then discards down to 3 cards in hand.,\N,163,5
+Stables,0,0,0,0,0,0,You may discard a Treasure. If you do\, +3 Cards and +1 Action.,\N,35,5
+Border Village,1,2,0,0,0,0,\N,When you gain this\, gain a card costing less than this.,35,6
+Farmland,0,0,0,0,2,0,\N,When you buy this\, trash a card from your hand. Gain a card costing exactly {2c} more than the trashed card.,19,6

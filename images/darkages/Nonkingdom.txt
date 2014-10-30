@@ -1,0 +1,22 @@
+Abandoned Mine,0,0,0,1,0,0,\N,\N,2081,0
+Ruined Library,1,0,0,0,0,0,\N,\N,2081,0
+Ruined Market,0,0,1,0,0,0,\N,\N,2081,0
+Ruined Village,0,1,0,0,0,0,\N,\N,2081,0
+Survivors,0,0,0,0,0,0,Look at the top 2 cards of your deck. Discard them or put them back in any order.,\N,2081,0
+Spoils,0,0,0,0,0,3,When you play this\, return it to the Spoils pile.,\N,4,0
+Madman,0,2,0,0,0,0,Return this to the Madman pile. If you do\, +1 Card per card in your hand.,\N,32,0
+Mercenary,0,0,0,0,0,0,You may trash 2 cards from your hand. If you do\, +2 Cards\, +{2c}\, and each other player discards down to 3 cards in hand.,\N,160,0
+Hovel,0,0,0,0,0,0,\N,When you buy a Victory card\, you may trash this from your hand.,4160,1
+Necropolis,0,2,0,0,0,0,\N,\N,4128,1
+Overgrown Estate,0,0,0,0,0,0,\N,When you trash this\, +1 Card.,4112,1
+Sir Martin,0,0,2,0,0,0,Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,4
+Dame Anna,0,0,0,0,0,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Dame Josephine,0,0,0,0,2,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16563,5
+Dame Molly,0,2,0,0,0,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Dame Natalie,0,0,0,0,0,0,You may gain a card costing up to {3c}. You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Dame Sylvia,0,0,0,2,0,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Sir Bailey,1,1,0,0,0,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Sir Destry,2,0,0,0,0,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Sir Michael,0,0,0,0,0,0,Each other player discards down to 3 cards in hand. You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,\N,16547,5
+Sir Vander,0,0,0,0,0,0,You may trash up to 2 cards from your hand. Each other player reveals the top 2 cards of his deck\, trashes one of them costing from {3c} to {6c}\, and discards the rest. If a Knight is trashed by this\, trash this card.,When you trash this\, gain a Gold.,16547,5
+

@@ -1,0 +1,81 @@
+h1
+{
+	text-align: center;
+}
+h3
+{
+	margin: 10px;
+}
+div.border
+{
+	border-style: solid;
+	border-color: #333333;
+	border-width: 2px;
+	border-radius: 12px;
+	padding: 12px;
+	margin: 5px;
+	max-width: 171px;
+}
+div.polydiv div
+{
+	position: relative;
+	float: left;
+}
+div.subset
+{
+	margin-left: 1em;
+	font-size: .8em;
+}
+div.note
+{
+	font-size: .65em;
+}
+td.cardCell
+{
+	width:10%;
+	overflow: hidden;
+}
+td.cardCell img
+{
+	width:100%;
+}
+td.dominion
+{
+	background-color: #836020;
+}
+td.intrigue
+	{
+		background-color: #858585;
+	}
+td.seaside
+	{
+		background-color: #6688ff;
+	}
+td.alchemy
+	{
+		background-color: #bb55bb;
+	}
+td.prosperity
+	{
+		background-color: #77dd33;
+	}
+td.cornucopia
+	{
+		background-color: #ffaa00;
+	}
+td.hinterlands
+	{
+		background-color: #33cc33;
+	}
+td.darkages
+	{
+		background-color: #d38827;
+	}
+td.guilds
+	{
+		background-color: #ff4400;
+	}
+td.promo
+	{
+		background-color: #ffff00;
+	}

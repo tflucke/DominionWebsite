@@ -1,0 +1,25 @@
+Cellar,0,1,0,0,0,0,Discard any number of cards. +1 Card per card discarded.,\N,35,2
+Chapel,0,0,0,0,0,0,Trash up to 4 cards from your hand.,\N,35,2
+Moat,2,0,0,0,0,0,\N,When another player plays an Attack card\, you may reveal this from your hand. If you do\, you are unaffected by that Attack.,99,2
+Chancellor,0,0,0,2,0,0,You may immediately put your deck into your discard pile.,\N,35,3
+Village,1,2,0,0,0,0,\N,\N,35,3
+Woodcutter,0,0,1,2,0,0,\N,\N,35,3
+Workshop,0,0,0,0,0,0,Gain a card costing up to {4c}.,\N,35,3
+Bureaucrat,0,0,0,0,0,0,Gain a silver card; put it on top of your deck. Each other player reveals a Victory card from his hand and puts it on his deck (or reveals a hand with no Victory cards).,\N,163,4
+Feast,0,0,0,0,0,0,Trash this card. Gain a card costing up to {5c}.,\N,35,4
+Gardens,0,0,0,0,0,0,Worth {1v} for every 10 cards in your deck (rounded down).,\N,19,4
+Milita,0,0,0,2,0,0,Each other player discards down to 3 cards in his hand.,\N,163,4
+Moneylender,0,0,0,0,0,0,Trash a Copper from your hand. If you do\, +{3c}.,\N,35,4
+Remodel,0,0,0,0,0,0,Trash a card from your hand. Gain a card costing up to {2c} more than the trashed card.,\N,35,4
+Smithy,3,0,0,0,0,0,\N,\N,35,4
+Spy,1,1,0,0,0,0,Each player (including you) reveals the top card of his deck and either discards it or puts it back\, your choice.,\N,163,4
+Theif,0,0,0,0,0,0,Each other player reveals the top 2 cards of his deck. If they revealed any Treasure cards\, they trash one of them that you choose. You may gain any or all of these trashed cards. They discard the other revealed cards.,\N,163,4
+Throne Room,0,0,0,0,0,0,Choose an Action card in your hand. Play it twice.,\N,35,4
+Council Room,4,0,1,0,0,0,Each other player draws a card.,\N,35,5
+Festival,0,2,1,2,0,0,\N,\N,35,5
+Laboratory,2,1,0,0,0,0,\N,\N,35,5
+Library,0,0,0,0,0,0,Draw until you have 7 cards in hand. You may set aside any Action cards drawn this way\, as you draw them; discard the set aside cards after you finish drawing.,\N,35,5
+Market,1,1,1,1,0,0,\N,\N,35,5
+Mine,0,0,0,0,0,0,Trash a Treasure card from your hand. Gain a Treasure card costing up to {3c} more; put it into your hand.,\N,35,5
+Witch,2,0,0,0,0,0,Each other player gains a Curse card.,\N,163,5
+Adventurer,0,0,0,0,0,0,Reveal cards from your deck until you reveal 2 Treasure cards. Put those Treasure cards into your hand and discard the other revealed cards.,\N,35,6

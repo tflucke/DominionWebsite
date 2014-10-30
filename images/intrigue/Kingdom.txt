@@ -1,0 +1,25 @@
+Courtyard,3,0,0,0,0,0,Put a card from your hand on top of your deck.,\N,35,2
+Pawn,0,0,0,0,0,0,Choose two: +1 Card\, +1 Action\, +1 Buy\, +{1c}. (The choices must be different.).,\N,35,2
+Secret Chamber,0,0,0,0,0,0,Discard any number of cards. +{1c} per card discarded.,When another player plays an Attack card\, you may reveal this from your hand. If you do\, +2 cards\, then put 2 cards from your hand on top of your deck.,99,2
+Great Hall,1,1,0,0,1,0,\N,\N,51,3
+Masquerade,2,0,0,0,0,0,Each player passes a card from his hand to the left at once. Then you may trash a card from your hand.,\N,35, 3
+Shanty Town,0,2,0,0,0,0,Reveal your hand. If you have no Action cards in hand\, +2 Cards.,\N,35,3
+Steward,0,0,0,0,0,0,Choose one: +2 Cards; or +{2c}; or trash 2 cards from your hand.,\N,35,3
+Swindler,0,0,0,2,0,0,Each other player trashes the top card of his deck and gains a card with the same cost that you choose.,\N,163,3
+Wishing Well,1,1,0,0,0,0,Name a card\, then reveal the top card of your deck. If it is the named card\, put it in your hand.,\N,35,3
+Baron,0,0,1,0,0,0,You may discard an Estate card. If you do\, +{4c}. Otherwise\, gain an Estate card.,\N,35,4
+Bridge,0,0,1,1,0,0,All cards (including cards in players' hands) cost {1c} less this turn\, but not less than {0}.,\N,35,4
+Conspirator,0,0,0,2,0,0,If you've played 3 or more Actions this turn (counting this): +1 Card\, +1 Action.,\N,35,4
+Coppersmith,0,0,0,0,0,0,Copper produces an extra {1c} this turn.,\N,35,4
+Ironworks,0,0,0,0,0,0,Gain a card costing up to {4c}. If it is an... Action card\, +1 Action. Treasure card\, +{1c}. Victory card\, +1 Card.,\N,35,4
+Mining Village,1,2,0,0,0,0,You may trash this card immediately. If you do\, +{2c}.,\N,35,4
+Scout,0,1,0,0,0,0,Reveal the top 4 cards of your deck. Put the revealed Victory cards into your hand. Put the other cards on top of your deck in any order.,\N,35,4
+Duke,0,0,0,0,0,0,Worth {1v} per Duchy you have.,\N,19,5
+Minion,0,1,0,0,0,0,Choose one: +{2c}; or discard your hand\, +4 Cards\, and each other player with at least 5 cards in hand discards his hand and draws 4 cards.,\N,163,5
+Saboteur,0,0,0,0,0,0,Each other player reveals cards from the top of his deck until revealing one costing {3c} or more. He trashes that card and may gain a card costing at most {2c} less than it. He discards the other revealed cards.,\N,163,5
+Torturer,3,0,0,0,0,0,Each other player chooses one: he discards 2 cards; or he gains a Curse card\, putting it in his hand.,\N,163,5
+Trading Post,0,0,0,0,0,0,Trash 2 cards from your hand. If you do\, gain a silver card; put it into your hand.,\N,35,5
+Tribute,0,0,0,0,0,0,The player to your left reveals then discards the top 2 cards of his deck. For each differently named card revealed\, if it is an... Action Card\, +2 Actions; Treasure Card\, +{2c}; Victory Card\, +2 Cards.,\N,35,5
+Upgrade,1,1,0,0,0,0,Trash a card from your hand. Gain a card costing exactly {1c} more than it.,\N,35,5
+Harem,0,0,0,0,2,2,\N,\N,23,6
+Nobels,0,0,0,0,2,0,Choose one: +3 Cards\, or +2 Actions.,\N,51,6

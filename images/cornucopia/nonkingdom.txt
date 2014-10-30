@@ -1,0 +1,6 @@
+Bag of Gold,0,1,0,0,0,0,Gain a Gold\, putting it on top of your deck.,\N,2080,0
+Diadem,0,0,0,0,0,2,When you play this\, +{1c} per unused Action you have (Action\, not Action card).,\N,2052,0
+Followers,2,0,0,0,0,0,Gain an Estate. Each other player gains a Curse and discards down to 3 cards in hand.,\N,2208,0
+Princess,0,0,1,0,0,0,\N,While this is in play\, cards cost {2c} less\, but not less than {0c}.,2080,0
+Trusty Steed,0,0,0,0,0,0,Choose two: +2 Cards; +2 Actions; +{2c}; gain 4 Silvers and put your deck into your discard pile.,\N,2080,0
+

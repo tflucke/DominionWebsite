@@ -1,0 +1,25 @@
+Loan,0,0,0,0,0,0,1,When you play this\, reveal cards from your deck until you reveal a Treasure. Discard it or trash it. Discard the other cards.,\N,7,3
+Trade Route,0,0,1,0,0,0,0,+{1c} per token on the Trade Route mat. Trash a card from your hand.,Setup: Put a token on each Victory card Supply pile. When a card is gained from that pile\, move the token to the Trade Route mat.,35,3
+Watchtower,0,0,0,0,0,0,0,Draw until you have 6 cards in hand.,When you gain a card\, you may reveal this from your hand. If you do\, either trash that card\, or put it on top of your deck.,99,3
+Bishop,0,0,0,1,1,0,0,Trash a card from your hand. +{v} equal to half its cost in Coins\, rounded down. Each other player may trash a card from his hand.,\N,35,4
+Monument,0,0,0,2,1,0,0,\N,\N,35,4
+Quarry,0,0,0,0,0,0,1,\N,While this is in play\, Action cards cost {2c} less\, but not less than {0c}.,7,4
+Talisman,0,0,0,0,0,0,1,\N,While this is in play\, when you buy a card costing {4c} or less that is not a Victory card\, gain a copy of it.,7,4
+Worker's Village,1,2,1,0,0,0,0,\N,\N,35,4
+City,1,2,0,0,0,0,0,If there are one or more empty Supply piles\, +1 Card. If there are two or more\, +{1c} and +1 Buy.,\N,35,5
+Contraband,0,0,1,0,0,0,3,When you play this\, the player to your left names a card. You can't buy that card this turn.,\N,7,5
+Counting House,0,0,0,0,0,0,0,Look through your discard pile\, reveal any number of Copper cards from it\, and put them into your hand.,\N,35,5
+Mint,0,0,0,0,0,0,0,You may reveal a Treasure card from your hand. Gain a copy of it.,When you buy this\, trash all Treasures you have in play.,35,5
+Mountebank,0,0,0,2,0,0,0,Each other player may discard a Curse. If he doesn't\, he gains a Curse and a Copper.,\N,163,5
+Rabble,3,0,0,0,0,0,0,Each other player reveals the top 3 cards of his deck\, discards the revealed Actions and Treasures\, and puts the rest back on top in any order he chooses.,\N,163,5
+Royal Seal,0,0,0,0,0,0,2,\N,While this is in play\, when you gain a card\, you may put that card on top of your deck.,7,5
+Vault,2,0,0,0,0,0,0,Discard any number of cards. +{1c} per card discarded. Each other player may discard 2 cards. If he does\, he draws a card.,\N,35,5
+Venture,0,0,0,0,0,0,1,When you play this\, reveal cards from your deck until you reveal a Treasure. Discard the other cards. Play that Treasure.,\N,7,5
+Goons,0,0,1,2,0,0,0,Each other player discards down to 3 cards in hand.,While this is in play\, when you buy a card\, +{v}.,163,6
+Grand Market,1,1,1,2,0,0,0,\N,You can't buy this if you have any Copper in play.,35,6
+Hoard,0,0,0,0,0,0,2,\N,While this is in play\, when you buy a Victory card\, gain a Gold.,7,6
+Bank,0,0,0,0,0,0,0,When you play this\, it`s worth {1c} per Treasure card you have in play (counting this).,\N,7,7
+Expand,0,0,0,0,0,0,0,Trash a card from your hand. Gain a card costing up to {3c} more than the trashed card.,\N,25,7
+Forge,0,0,0,0,0,0,0,Trash any number of cards from your hand. Gain a card with cost exactly equal to the total cost in {c} of the trashed cards.,\N,35,7
+King's Court,0,0,0,0,0,0,0,You may choose an Action card in your hand. Play it three times.,\N,35,7
+Peddler,1,1,0,1,0,0,0,\N,During your Buy phase\, this costs {2c} less per Action card you have in play\, but not less than  {0c}.,35,8
